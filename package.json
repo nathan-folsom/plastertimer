@@ -1,0 +1,11 @@
+{
+  "name": "plastermaster",
+  "version": "1.0.0",
+  "description": "plaster mixing timer",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nate Folsom",
+  "license": "ISC"
+}
